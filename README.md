@@ -1,5 +1,7 @@
 # Yutira 2026 - Event Management Platform
 
+**Live Website:** [https://yutira.psgtech.ac.in](https://yutira.psgtech.ac.in)
+
 A modern, full-stack web platform built for **Yutira 2026**, the national level technical symposium hosted by the Department of Civil Engineering at PSG College of Technology. 
 
 Developed as a freelance project, this platform handles everything from attendee registration and paper submissions to payment verification and on-ground attendance tracking.
