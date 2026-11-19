@@ -69,21 +69,4 @@ The production build is optimized for deployment on Vercel or any Node.js hostin
 ```bash
 npm run build
 npm start
-``` 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+```
