@@ -16,7 +16,7 @@ Developed as a freelance project, this platform handles everything from attendee
   - Tracks user details, college, and department.
   - Separate payment status flows for general events and specific workshops.
   - Generates unique `Yutira ID`s using a custom Counter schema.
-- **Paper Submission Portal:** Allows students to submit research papers. Students submit an abstract PDF as a Google Drive share link, which admins review from the dashboard.
+- **Paper Submission Portal:** Students submit research papers by pasting a Google Drive share link to their abstract PDF, which admins review from the dashboard.
 - **Admin Dashboard:** 
   - Track attendance for Day 1 and Day 2.
   - Approve or reject paper submissions with remarks.
