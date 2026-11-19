@@ -43,13 +43,18 @@ Developed as a freelance project, this platform handles everything from attendee
 2. Configure your Environment Variables:
    Rename `.env.example` to `.env.local` and fill in your credentials:
    ```env
-   MONGODB_URI=your_mongodb_connection_string
+   APP_URL=http://localhost:3000
    JWT_SECRET=your_super_secret_key
-   CLOUDINARY_CLOUD_NAME=your_cloud_name
-   CLOUDINARY_API_KEY=your_api_key
-   CLOUDINARY_API_SECRET=your_api_secret
-   EMAIL_USER=your_email@gmail.com
-   EMAIL_PASS=your_app_password
+   MONGODB_URI=your_mongodb_connection_string
+   ADMIN_EMAIL=admin@example.com
+   ADMIN_PASSWORD=change_me
+   EMAIL_ENABLED=true
+   SMTP_HOST=smtp.gmail.com
+   SMTP_PORT=465
+   SMTP_SECURE=true
+   SMTP_USER=your_email@gmail.com
+   SMTP_PASS=your_app_password
+   SMTP_FROM_NAME=Yutira 2026
    ```
 
 3. Run the development server:
