@@ -6,6 +6,8 @@ A modern, full-stack web platform built for **Yutira 2026**, the national level 
 
 Developed as a freelance project, this platform handles everything from attendee registration and paper submissions to payment verification and on-ground attendance tracking.
 
+![Admin dashboard](admin-dashboard.png)
+
 ## Core Features
 
 - **Dynamic Event Landing Page:** Features a live countdown timer, event schedule, and smooth UI transitions powered by `framer-motion`.
